@@ -1,6 +1,3 @@
-# SentimentAnalysis
-The NLP model which we have generated can detect the positive and negative intents in the tweets and retweets. 
-
 In the generation where pretty much everything is dependant on social media it is extremely important for product based companies to have an idea of how their brand is being perceived. If you own or manage a business it is very likely that your customers have read and researched about you before their first interaction. Therefore it is extremely important for a brand to maintain a engaging social media presence. 
 
 
